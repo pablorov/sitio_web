@@ -3,14 +3,14 @@
     <title>AntropologiaFisica.cl</title>
     <link href="https://pablorov.github.io/sitio_web/feed.xml" rel="self" />
     <link href="https://pablorov.github.io/sitio_web" />
-    <updated>2025-05-03T16:03:02-04:00</updated>
+    <updated>2025-05-03T16:17:37-04:00</updated>
     <author>
         <name>Pablo Gómez</name>
     </author>
     <id>https://pablorov.github.io/sitio_web</id>
 
     <entry>
-        <title>GeoFotoUTM 1.0 (Windows y MAC)</title>
+        <title>GeoFotoUTM 1.0 (Windows y MacOS)</title>
         <author>
             <name>Pablo Gómez</name>
         </author>
@@ -40,73 +40,68 @@
 </tr>
 </tbody>
 </table>
-<p> </p>
-<hr>
 <h3><strong>¿Por qué GeoFotoUTM?</strong></h3>
 <p class="p4">En campañas de prospección y excavación, cada imagen es un dato: debe quedar asociada de forma inequívoca a su posición y contexto. GeoFotoUTM automatiza esa tarea—renombra los archivos con coordenadas UTM, incrusta datos clave (fecha, hora, logo de proyecto, rosa de los vientos) en la propia imagen y asegura que la metadata EXIF mantenga la integridad de la información con la que fue capturada originalmente.</p>
 <figure class="post__image post__image--center"><strong><img loading="lazy"  src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM.png" alt="GeoFotoUTM captura de pantalla" width="499" height="431" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xs.png 384w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-sm.png 600w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-md.png 768w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-lg.png 1200w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xl.png 1600w"></figure></strong></p>
-<hr>
 <h3><strong>Funcionalidades clave</strong></h3>
-<table style="width: 122.365%; height: 576.154px;">
+<table style="width: 103.134%; height: 618.147px;">
 <thead>
 <tr style="height: 77.3594px;">
-<th style="width: 32.525%; height: 77.3594px;">
+<th style="width: 27.3893%; height: 77.3594px;">
 <p class="p1"><strong>Función</strong></p>
 </th>
-<th style="width: 67.475%; height: 77.3594px;">
+<th style="width: 72.6107%; height: 77.3594px;">
 <p class="p1"><strong>Descripción</strong></p>
 </th>
 </tr>
 </thead>
 <tbody>
-<tr style="height: 54.359px;">
-<td style="width: 32.525%; height: 54.359px;">
+<tr style="height: 131.359px;">
+<td style="width: 27.3893%; height: 131.359px;">
 <p class="p1"><strong>Renombrado UTM</strong></p>
 </td>
-<td style="width: 67.475%; height: 54.359px;">
+<td style="width: 72.6107%; height: 131.359px;">
 <p class="p1">Convierte nombres de archivo genéricos en etiquetas <span class="s1"><strong>Zona-Letra Este Norte</strong></span>; opcionalmente añade un prefijo de sitio, unidad u otro personalizado.</p>
 </td>
 </tr>
-<tr style="height: 104.359px;">
-<td style="width: 32.525%; height: 104.359px;">
+<tr style="height: 69.359px;">
+<td style="width: 27.3893%; height: 69.359px;">
 <p class="p1"><strong>Modo EXIF / Modo TXT</strong></p>
 </td>
-<td style="width: 67.475%; height: 104.359px;">
+<td style="width: 72.6107%; height: 69.359px;">
 <p class="p1">Lee las coordenadas GPS y orientación directamente del EXIF o las importa desde un archivo de texto plano (formato txt) preparado en gabinete.</p>
 </td>
 </tr>
 <tr style="height: 131.359px;">
-<td style="width: 32.525%; height: 131.359px;">
+<td style="width: 27.3893%; height: 131.359px;">
 <p class="p1"><strong>Inserción gráfica no destructiva</strong></p>
 </td>
-<td style="width: 67.475%; height: 131.359px;">
+<td style="width: 72.6107%; height: 131.359px;">
 <p class="p1">Sobreimprime coordenadas, tiempo de captura, logotipo institucional y rosa de los vientos con control preciso de tamaño, color y posición.</p>
 </td>
 </tr>
 <tr style="height: 104.359px;">
-<td style="width: 32.525%; height: 104.359px;">
+<td style="width: 27.3893%; height: 104.359px;">
 <p class="p1"><strong>Conservación de originales</strong></p>
 </td>
-<td style="width: 67.475%; height: 104.359px;">
+<td style="width: 72.6107%; height: 104.359px;">
 <p class="p1">Copias de seguridad automáticas en carpetas <i>Backup</i> y restauración de metadatos originales tras el procesado.</p>
 </td>
 </tr>
-<tr style="height: 104.359px;">
-<td style="width: 32.525%; height: 104.359px;">
+<tr style="height: 104.352px;">
+<td style="width: 27.3893%; height: 104.352px;">
 <p class="p1"><strong>Multiplataforma</strong></p>
 </td>
-<td style="width: 67.475%; height: 104.359px;">
+<td style="width: 72.6107%; height: 104.352px;">
 <p class="p1">Binarios nativos para <span class="s1"><strong>Windows 10/11</strong></span> y <span class="s1"><strong>macOS 12+</strong></span></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p class="p1"> </p>
-<hr>
 <h3><strong>Ventajas para el registro arqueológico</strong></h3>
 <ul>
 <li>
-<p class="p1"><span class="s1"><strong>Precisión</strong></span> – Trabaja en UTM, el sistema estándar para la el registro de terreno.</p>
+<p class="p1"><span class="s1"><strong>Estándar</strong></span> – Trabaja en UTM, el sistema estándar para la el registro de terreno.</p>
 </li>
 <li>
 <p class="p1"><span class="s1"><strong>Trazabilidad inmediata</strong></span> – El nombre del archivo y la marca gráfica contienen la ubicación; ideal para inventarios, SIG, repositorios de patrimonio e informes a la autoridad.</p>
@@ -118,20 +113,16 @@
 <p class="p1"><span class="s1"><strong>Cumplimiento normativo</strong></span> – Facilita la entrega de informes según las guías de registro fotográfico de instituciones patrimoniales.</p>
 </li>
 </ul>
-<hr>
 <h3><strong>Especificaciones</strong></h3>
 <ul>
 <li>
 <p class="p1"><span class="s1"><strong>Formatos de imagen</strong></span>: JPG, JPEG, PNG</p>
 </li>
 <li>
-<p class="p1"><span class="s1"><strong>Calidad de salida</strong></span>: compresión 90 % (configurada para conservación a largo plazo)</p>
+<p class="p1"><span class="s1"><strong>Calidad de salida JPG</strong></span>: compresión 90 % (configurada para archivo de tamaño razonable conservado la calidad original)</p>
 </li>
 <li>
-<p class="p1"><span class="s1"><strong>Licencia</strong></span>: Uso gratuito para investigación, docencia, tambien para fines comerciales (ver EULA incluido)</p>
-</li>
-<li>
-<p class="p1"><strong>Tamaño del instalador</strong><span class="s1">: ≈ 25 MB</span></p>
+<p class="p1"><span class="s1"><strong>Licencia</strong></span>: Uso gratuito para investigación, docencia y para fines comerciales (ver EULA incluido)</p>
 </li>
 </ul>
 <hr>
@@ -140,7 +131,7 @@
         </content>
     </entry>
     <entry>
-        <title>Ecuantro: Software para el procesamiento de datos en Antropología Física (Windows, Android, IOS)</title>
+        <title>Ecuantro: Software para el procesamiento de datos en Antropología Física (Windows, Android, iOS)</title>
         <author>
             <name>Pablo Gómez</name>
         </author>
