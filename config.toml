@@ -1,8 +1,0 @@
-baseURL = "https://USERNAME.github.io/REPO-NAME/"
-languageCode = "es-cl"
-title = "Software de Antropología y Arqueología"
-theme = "example-theme"
-enableGitInfo = true
-
-[params]
-  description = "Repositorio de programas para antropología física y arqueología"
