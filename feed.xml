@@ -3,7 +3,7 @@
     <title>AntropologiaFisica.cl</title>
     <link href="https://pablorov.github.io/sitio_web/feed.xml" rel="self" />
     <link href="https://pablorov.github.io/sitio_web" />
-    <updated>2025-05-01T22:30:12-04:00</updated>
+    <updated>2025-05-03T14:20:52-04:00</updated>
     <author>
         <name>Pablo Gómez</name>
     </author>
@@ -153,7 +153,9 @@
 <p class="has-text-align-justify">Para estimar masa corporal hace uso de ecuaciones que se basan en el ancho de la cabeza femoral, ancho bi-iliaco y estatura. Los autores de estos métodos son:<br>Ruff et al, 1991<br>McHenry, 1992<br>Grine et al, 1995<br>Ruff et al, 1997</p>
 <p class="has-text-align-justify">El módulo para estimar número de individuos en restos esqueletales dispersos puede calcular los índices GMT, MNI, LI y MLNI, este último haciendo uso de intervalos de confianza o el método de Highest density región descrito en Konisberg, 2004.</p>
 <p>Descarga disponible en el siguiente link:</p>
-<p><strong><a href="https://pablorov.github.io/sitio_web/setupecuantro_1.1.zip">Descargar</a></strong></p>
+<p><strong><a href="https://pablorov.github.io/sitio_web/setupecuantro_1.1.zip">Windows 10/11</a></strong></p>
+<p><strong><a href="https://apps.apple.com/us/app/ecuantro/id6739266523?uo=2">iOS</a><a href="https://apps.apple.com/us/app/ecuantro/id6739266523?uo=2"></a></strong></p>
+<p><strong><a href="https://play.google.com/store/apps/details?id=com.ecuantro&amp;pcampaignid=web_share" target="_blank" rel="noopener noreferrer">Android</a></strong></p>
             ]]>
         </content>
     </entry>
