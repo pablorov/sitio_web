@@ -3,7 +3,7 @@
     <title>AntropologiaFisica.cl</title>
     <link href="https://pablorov.github.io/sitio_web/feed.xml" rel="self" />
     <link href="https://pablorov.github.io/sitio_web" />
-    <updated>2025-05-03T14:54:19-04:00</updated>
+    <updated>2025-05-03T16:03:02-04:00</updated>
     <author>
         <name>Pablo Gómez</name>
     </author>
@@ -16,25 +16,35 @@
         </author>
         <link href="https://pablorov.github.io/sitio_web/geofotoutm-10-windows-y-mac.html"/>
         <id>https://pablorov.github.io/sitio_web/geofotoutm-10-windows-y-mac.html</id>
-        <media:content url="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-copia.png" medium="image" />
+        <media:content url="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-header-4.png" medium="image" />
 
         <updated>2025-05-01T22:23:42-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-copia.png" alt="" />
+                        <img src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-header-4.png" alt="" />
                     Georreferenciación de fotografías para arqueología GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-copia.png" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image"><strong> <img loading="lazy"  src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM.png" alt="GeoFotoUTM captura de pantalla" width="1986" height="1714" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xs.png 384w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-sm.png 600w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-md.png 768w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-lg.png 1200w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xl.png 1600w"></figure></strong></p>
-<p> </p>
-<p class="p3"><strong>Georreferenciación de fotografías para arqueología</strong></p>
+                    <p><img src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-header-4.png" class="type:primaryImage" alt="" /></p>
+                <p class="p3"><strong>Georreferenciación de fotografías para arqueología</strong></p>
 <p class="p4">GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en fotografias.</p>
+<h4><strong>Descarga</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 38.248%;"><strong><a href="https://pablorov.github.io/sitio_web/GeoFotoUTM_setup.exe">Instalador Windows 10/11</a></strong></td>
+<td class="align-center" style="width: 36.7877%;"><strong><a href="https://pablorov.github.io/sitio_web/GeoFotoUTM.dmg">Instalador MacOS</a></strong></td>
+<td class="align-center" style="width: 24.9643%;"><strong><a href="https://pablorov.github.io/sitio_web/Manual GeoFotoUTM.pdf" target="_blank" rel="noopener noreferrer">Manual de uso</a></strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
 <hr>
 <h3><strong>¿Por qué GeoFotoUTM?</strong></h3>
 <p class="p4">En campañas de prospección y excavación, cada imagen es un dato: debe quedar asociada de forma inequívoca a su posición y contexto. GeoFotoUTM automatiza esa tarea—renombra los archivos con coordenadas UTM, incrusta datos clave (fecha, hora, logo de proyecto, rosa de los vientos) en la propia imagen y asegura que la metadata EXIF mantenga la integridad de la información con la que fue capturada originalmente.</p>
+<figure class="post__image post__image--center"><strong><img loading="lazy"  src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM.png" alt="GeoFotoUTM captura de pantalla" width="499" height="431" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xs.png 384w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-sm.png 600w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-md.png 768w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-lg.png 1200w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xl.png 1600w"></figure></strong></p>
 <hr>
 <h3><strong>Funcionalidades clave</strong></h3>
 <table style="width: 122.365%; height: 576.154px;">
@@ -125,10 +135,7 @@
 </li>
 </ul>
 <hr>
-<h3><strong>Descarga</strong></h3>
-<p class="p3"><a href="https://pablorov.github.io/sitio_web/GeoFotoUTM_setup.exe">Instalador Windows 10/11</a></p>
-<p><a href="https://pablorov.github.io/sitio_web/GeoFotoUTM.dmg">Instalador MacOS</a></p>
-<p class="p3"> </p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -139,26 +146,36 @@
         </author>
         <link href="https://pablorov.github.io/sitio_web/ecuantro-software-para-el-procesamiento-de-datos-en-antropologia-fisica-windows.html"/>
         <id>https://pablorov.github.io/sitio_web/ecuantro-software-para-el-procesamiento-de-datos-en-antropologia-fisica-windows.html</id>
-        <media:content url="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro3-2.jpeg" medium="image" />
+        <media:content url="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro-header-4.png" medium="image" />
 
         <updated>2025-05-01T22:05:09-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro3-2.jpeg" alt="" />
+                        <img src="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro-header-4.png" alt="" />
                     Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro3-2.jpeg" class="type:primaryImage" alt="" /></p>
-                <p class="has-text-align-justify">Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas.</p>
+                    <p><img src="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro-header-4.png" class="type:primaryImage" alt="" /></p>
+                <p class="has-text-align-justify">Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas. Las versiones mobiles (iOS y Android) son versiones simplificadas de la versión de escritorio para el uso en estos dispositivos.</p>
+<h4>Descarga</h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.2855%;"><strong><a href="https://pablorov.github.io/sitio_web/setupecuantro_1.1.zip">Windows 10/11</a></strong></td>
+<td class="align-center" style="width: 33.2855%;"><strong><a href="https://apps.apple.com/us/app/ecuantro/id6739266523?uo=2">iOS</a></strong></td>
+<td class="align-center" style="width: 33.2866%;"><strong><a href="https://play.google.com/store/apps/details?id=com.ecuantro&amp;pcampaignid=web_share" target="_blank" rel="noopener noreferrer">Android</a></strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro4.jpeg" data-size="266x592"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro4-thumbnail.jpeg" alt="" width="266" height="592"></a></figure>
 <figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro2.jpeg" data-size="460x997"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro2-thumbnail.jpeg" alt="" width="460" height="997"></a></figure>
 <figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro1.jpeg" data-size="540x1200"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro1-thumbnail.jpeg" alt="" width="540" height="1200"></a></figure>
-<figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro5.jpeg" data-size="266x592"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro5-thumbnail.jpeg" alt="" width="266" height="592"></a></figure>
 </div></div>
-<p><br>Para estimación de estatura utiliza longitud de huesos largos y cuenta con ecuaciones de los siguientes autores:<br>Genoves, 1967<br>Trotter, 1970<br>Sciulli, 1990<br>Feldesman and Fountain, 1996<br>M.C.de Mendoca, 2000<br>Duyar, 2003<br>Angel and Cisneros, 2004<br>Ruff, 2007<br>Raxter et al, 2008<br>Didia et al, 2009<br>Auerbach and Ruff, 2010<br>Ross and Konigsberg, 2002<br>Ross and Manneschi, 2010<br>R. Hauser et al, 2005</p>
+<p> </p>
+<p>Para estimación de estatura utiliza longitud de huesos largos y cuenta con ecuaciones de los siguientes autores:<br>Genoves, 1967<br>Trotter, 1970<br>Sciulli, 1990<br>Feldesman and Fountain, 1996<br>M.C.de Mendoca, 2000<br>Duyar, 2003<br>Angel and Cisneros, 2004<br>Ruff, 2007<br>Raxter et al, 2008<br>Didia et al, 2009<br>Auerbach and Ruff, 2010<br>Ross and Konigsberg, 2002<br>Ross and Manneschi, 2010<br>R. Hauser et al, 2005</p>
 <p>También presenta un modulo para estimar estatura con fragmentos de fémur según el método de Simmons, T. et al, 1990</p>
 <p class="has-text-align-justify">Para edad de muerte utiliza el método de Lamendin, basado en tres características dentales: transparencia radicular, periodontosis y largo total de la raíz. Cuenta también con ecuaciones de diversos autores para distintas poblaciones:<br>Lamendin et al, 1992<br>Prince y Ubelaker, 2002<br>Ubelaker y Parra, 2007<br>Gonzalez et al, 2006<br>Schmitt et al, 2010</p>
 <p class="has-text-align-justify">Para estimación de distancias biológicas utiliza la Medida Media de Divergencia (MMD) con datos de rasgos esqueletales discretos.</p>
@@ -166,10 +183,7 @@
 <p class="has-text-align-justify">Para estimar sexo contiene dos módulos, uno de ellos utiliza el método de Walrath et al, 2004 que estima a partir de rasgos craneales el sexo del individuo, otro modulo hace uso del área del triángulo mastoidal como estimador de sexo</p>
 <p class="has-text-align-justify">Para estimar masa corporal hace uso de ecuaciones que se basan en el ancho de la cabeza femoral, ancho bi-iliaco y estatura. Los autores de estos métodos son:<br>Ruff et al, 1991<br>McHenry, 1992<br>Grine et al, 1995<br>Ruff et al, 1997</p>
 <p class="has-text-align-justify">El módulo para estimar número de individuos en restos esqueletales dispersos puede calcular los índices GMT, MNI, LI y MLNI, este último haciendo uso de intervalos de confianza o el método de Highest density región descrito en Konisberg, 2004.</p>
-<p>Descarga disponible en el siguiente link:</p>
-<p><strong><a href="https://pablorov.github.io/sitio_web/setupecuantro_1.1.zip">Windows 10/11</a></strong></p>
-<p><strong><a href="https://apps.apple.com/us/app/ecuantro/id6739266523?uo=2">iOS</a><a href="https://apps.apple.com/us/app/ecuantro/id6739266523?uo=2"></a></strong></p>
-<p><strong><a href="https://play.google.com/store/apps/details?id=com.ecuantro&amp;pcampaignid=web_share" target="_blank" rel="noopener noreferrer">Android</a></strong></p>
+<p> </p>
             ]]>
         </content>
     </entry>
