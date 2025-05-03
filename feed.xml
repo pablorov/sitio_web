@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AntropologiaFisica.cl</title>
+    <link href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/feed.xml" rel="self" />
+    <link href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview" />
+    <updated>2025-05-01T22:30:12-04:00</updated>
+    <author>
+        <name>Pablo Gómez</name>
+    </author>
+    <id>file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview</id>
+
+    <entry>
+        <title>GeoFotoUTM 1.0 (Windows y MAC)</title>
+        <author>
+            <name>Pablo Gómez</name>
+        </author>
+        <link href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/geofotoutm-10-windows-y-mac.html"/>
+        <id>file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/geofotoutm-10-windows-y-mac.html</id>
+
+        <updated>2025-05-01T22:23:42-04:00</updated>
+            <summary>
+                <![CDATA[
+                     Georreferenciación de fotografías para arqueología GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en fotografias. En campañas de prospección y excavación, cada imagen es un dato: debe quedar asociada de forma inequívoca a su posición y contexto. GeoFotoUTM automatiza&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="p3"><strong> Georreferenciación de fotografías para arqueología</strong></p>
+<p class="p4">GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en fotografias.</p>
+<hr>
+<h3><strong>¿Por qué GeoFotoUTM?</strong></h3>
+<p class="p4">En campañas de prospección y excavación, cada imagen es un dato: debe quedar asociada de forma inequívoca a su posición y contexto. GeoFotoUTM automatiza esa tarea—renombra los archivos con coordenadas UTM, incrusta datos clave (fecha, hora, logo de proyecto, rosa de los vientos) en la propia imagen y asegura que la metadata EXIF mantenga la integridad de la información con la que fue capturada originalmente.</p>
+<hr>
+<h3><strong>Funcionalidades clave</strong></h3>
+<table style="width: 122.365%; height: 576.154px;">
+<thead>
+<tr style="height: 77.3594px;">
+<th style="width: 32.525%; height: 77.3594px;">
+<p class="p1"><strong>Función</strong></p>
+</th>
+<th style="width: 67.475%; height: 77.3594px;">
+<p class="p1"><strong>Descripción</strong></p>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 54.359px;">
+<td style="width: 32.525%; height: 54.359px;">
+<p class="p1"><strong>Renombrado UTM</strong></p>
+</td>
+<td style="width: 67.475%; height: 54.359px;">
+<p class="p1">Convierte nombres de archivo genéricos en etiquetas <span class="s1"><strong>Zona-Letra Este Norte</strong></span>; opcionalmente añade un prefijo de sitio, unidad u otro personalizado.</p>
+</td>
+</tr>
+<tr style="height: 104.359px;">
+<td style="width: 32.525%; height: 104.359px;">
+<p class="p1"><strong>Modo EXIF / Modo TXT</strong></p>
+</td>
+<td style="width: 67.475%; height: 104.359px;">
+<p class="p1">Lee las coordenadas GPS y orientación directamente del EXIF o las importa desde un archivo de texto plano (formato txt) preparado en gabinete.</p>
+</td>
+</tr>
+<tr style="height: 131.359px;">
+<td style="width: 32.525%; height: 131.359px;">
+<p class="p1"><strong>Inserción gráfica no destructiva</strong></p>
+</td>
+<td style="width: 67.475%; height: 131.359px;">
+<p class="p1">Sobreimprime coordenadas, tiempo de captura, logotipo institucional y rosa de los vientos con control preciso de tamaño, color y posición.</p>
+</td>
+</tr>
+<tr style="height: 104.359px;">
+<td style="width: 32.525%; height: 104.359px;">
+<p class="p1"><strong>Conservación de originales</strong></p>
+</td>
+<td style="width: 67.475%; height: 104.359px;">
+<p class="p1">Copias de seguridad automáticas en carpetas <i>Backup</i> y restauración de metadatos originales tras el procesado.</p>
+</td>
+</tr>
+<tr style="height: 104.359px;">
+<td style="width: 32.525%; height: 104.359px;">
+<p class="p1"><strong>Multiplataforma</strong></p>
+</td>
+<td style="width: 67.475%; height: 104.359px;">
+<p class="p1">Binarios nativos para <span class="s1"><strong>Windows 10/11</strong></span> y <span class="s1"><strong>macOS 12+</strong></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p1"> </p>
+<hr>
+<h3><strong>Ventajas para el registro arqueológico</strong></h3>
+<ul>
+<li>
+<p class="p1"><span class="s1"><strong>Precisión</strong></span> – Trabaja en UTM, el sistema estándar para la el registro de terreno.</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>Trazabilidad inmediata</strong></span> – El nombre del archivo y la marca gráfica contienen la ubicación; ideal para inventarios, SIG, repositorios de patrimonio e informes a la autoridad.</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>Ahorro de tiempo</strong></span> – Procesa lotes completos y subdirectorios con un clic; elimina errores de transcripción.</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>Cumplimiento normativo</strong></span> – Facilita la entrega de informes según las guías de registro fotográfico de instituciones patrimoniales.</p>
+</li>
+</ul>
+<hr>
+<h3><strong>Especificaciones</strong></h3>
+<ul>
+<li>
+<p class="p1"><span class="s1"><strong>Formatos de imagen</strong></span>: JPG, JPEG, PNG</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>Calidad de salida</strong></span>: compresión 90 % (configurada para conservación a largo plazo)</p>
+</li>
+<li>
+<p class="p1"><span class="s1"><strong>Licencia</strong></span>: Uso gratuito para investigación, docencia, tambien para fines comerciales (ver EULA incluido)</p>
+</li>
+<li>
+<p class="p1"><strong>Tamaño del instalador</strong><span class="s1">: ≈ 25 MB</span></p>
+</li>
+</ul>
+<hr>
+<h3><strong>Descarga</strong></h3>
+<p class="p3"><a href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/GeoFotoUTM_setup.exe">Instalador Windows 10/11</a></p>
+<p><a href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/GeoFotoUTM.dmg">Instalador MacOS</a></p>
+<p class="p3"> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ecuantro: Software para el procesamiento de datos en Antropología Física (Windows, Android, IOS)</title>
+        <author>
+            <name>Pablo Gómez</name>
+        </author>
+        <link href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/ecuantro-software-para-el-procesamiento-de-datos-en-antropologia-fisica-windows.html"/>
+        <id>file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/ecuantro-software-para-el-procesamiento-de-datos-en-antropologia-fisica-windows.html</id>
+
+        <updated>2025-05-01T22:05:09-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas. Para estimación de estatura&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="wp-block-image"> </div>
+<p class="has-text-align-justify">Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas.<br>Para estimación de estatura utiliza longitud de huesos largos y cuenta con ecuaciones de los siguientes autores:<br>Genoves, 1967<br>Trotter, 1970<br>Sciulli, 1990<br>Feldesman and Fountain, 1996<br>M.C.de Mendoca, 2000<br>Duyar, 2003<br>Angel and Cisneros, 2004<br>Ruff, 2007<br>Raxter et al, 2008<br>Didia et al, 2009<br>Auerbach and Ruff, 2010<br>Ross and Konigsberg, 2002<br>Ross and Manneschi, 2010<br>R. Hauser et al, 2005</p>
+<p>También presenta un modulo para estimar estatura con fragmentos de fémur según el método de Simmons, T. et al, 1990</p>
+<p class="has-text-align-justify">Para edad de muerte utiliza el método de Lamendin, basado en tres características dentales: transparencia radicular, periodontosis y largo total de la raíz. Cuenta también con ecuaciones de diversos autores para distintas poblaciones:<br>Lamendin et al, 1992<br>Prince y Ubelaker, 2002<br>Ubelaker y Parra, 2007<br>Gonzalez et al, 2006<br>Schmitt et al, 2010</p>
+<p class="has-text-align-justify">Para estimación de distancias biológicas utiliza la Medida Media de Divergencia (MMD) con datos de rasgos esqueletales discretos.</p>
+<p>Para estimar la edad de formación del episodio hipoplásico dental utiliza las ecuaciones de Walker P. et al.</p>
+<p class="has-text-align-justify">Para estimar sexo contiene dos módulos, uno de ellos utiliza el método de Walrath et al, 2004 que estima a partir de rasgos craneales el sexo del individuo, otro modulo hace uso del área del triángulo mastoidal como estimador de sexo</p>
+<p class="has-text-align-justify">Para estimar masa corporal hace uso de ecuaciones que se basan en el ancho de la cabeza femoral, ancho bi-iliaco y estatura. Los autores de estos métodos son:<br>Ruff et al, 1991<br>McHenry, 1992<br>Grine et al, 1995<br>Ruff et al, 1997</p>
+<p class="has-text-align-justify">El módulo para estimar número de individuos en restos esqueletales dispersos puede calcular los índices GMT, MNI, LI y MLNI, este último haciendo uso de intervalos de confianza o el método de Highest density región descrito en Konisberg, 2004.</p>
+<p>Descarga disponible en el siguiente link:</p>
+<p><strong><a href="file:////Users/pablorov/Documents/Publii/sites/antropologiafisicacl/preview/setupecuantro_1.1.zip">Descargar</a></strong></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
