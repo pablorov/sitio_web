@@ -3,7 +3,7 @@
     <title>AntropologiaFisica.cl</title>
     <link href="https://pablorov.github.io/sitio_web/feed.xml" rel="self" />
     <link href="https://pablorov.github.io/sitio_web" />
-    <updated>2025-05-03T14:20:52-04:00</updated>
+    <updated>2025-05-03T14:54:19-04:00</updated>
     <author>
         <name>Pablo Gómez</name>
     </author>
@@ -16,16 +16,21 @@
         </author>
         <link href="https://pablorov.github.io/sitio_web/geofotoutm-10-windows-y-mac.html"/>
         <id>https://pablorov.github.io/sitio_web/geofotoutm-10-windows-y-mac.html</id>
+        <media:content url="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-copia.png" medium="image" />
 
         <updated>2025-05-01T22:23:42-04:00</updated>
             <summary>
                 <![CDATA[
-                     Georreferenciación de fotografías para arqueología GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en fotografias. En campañas de prospección y excavación, cada imagen es un dato: debe quedar asociada de forma inequívoca a su posición y contexto. GeoFotoUTM automatiza&hellip;
+                        <img src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-copia.png" alt="" />
+                    Georreferenciación de fotografías para arqueología GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="p3"><strong> Georreferenciación de fotografías para arqueología</strong></p>
+                    <p><img src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM-copia.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><strong> <img loading="lazy"  src="https://pablorov.github.io/sitio_web/media/posts/2/geofotoUTM.png" alt="GeoFotoUTM captura de pantalla" width="1986" height="1714" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xs.png 384w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-sm.png 600w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-md.png 768w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-lg.png 1200w ,https://pablorov.github.io/sitio_web/media/posts/2/responsive/geofotoUTM-xl.png 1600w"></figure></strong></p>
+<p> </p>
+<p class="p3"><strong>Georreferenciación de fotografías para arqueología</strong></p>
 <p class="p4">GeoFotoUTM es una aplicación de escritorio diseñada específicamente para renombrar e incrustar datos geográficos en fotografias.</p>
 <hr>
 <h3><strong>¿Por qué GeoFotoUTM?</strong></h3>
@@ -134,17 +139,26 @@
         </author>
         <link href="https://pablorov.github.io/sitio_web/ecuantro-software-para-el-procesamiento-de-datos-en-antropologia-fisica-windows.html"/>
         <id>https://pablorov.github.io/sitio_web/ecuantro-software-para-el-procesamiento-de-datos-en-antropologia-fisica-windows.html</id>
+        <media:content url="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro3-2.jpeg" medium="image" />
 
         <updated>2025-05-01T22:05:09-04:00</updated>
             <summary>
                 <![CDATA[
-                    Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas. Para estimación de estatura&hellip;
+                        <img src="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro3-2.jpeg" alt="" />
+                    Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <div class="wp-block-image"> </div>
-<p class="has-text-align-justify">Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas.<br>Para estimación de estatura utiliza longitud de huesos largos y cuenta con ecuaciones de los siguientes autores:<br>Genoves, 1967<br>Trotter, 1970<br>Sciulli, 1990<br>Feldesman and Fountain, 1996<br>M.C.de Mendoca, 2000<br>Duyar, 2003<br>Angel and Cisneros, 2004<br>Ruff, 2007<br>Raxter et al, 2008<br>Didia et al, 2009<br>Auerbach and Ruff, 2010<br>Ross and Konigsberg, 2002<br>Ross and Manneschi, 2010<br>R. Hauser et al, 2005</p>
+                    <p><img src="https://pablorov.github.io/sitio_web/media/posts/1/ecuantro3-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="has-text-align-justify">Ecuantro es un software desarrollado para agilizar el proceso de cálculo de ecuaciones en antropología física, cuenta con módulos para estatura, edad de muerte, sexo, edad de formación de hipoplasia del esmalte, masa corporal, número mínimo de individuos y distancias biológicas.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro4.jpeg" data-size="266x592"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro4-thumbnail.jpeg" alt="" width="266" height="592"></a></figure>
+<figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro2.jpeg" data-size="460x997"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro2-thumbnail.jpeg" alt="" width="460" height="997"></a></figure>
+<figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro1.jpeg" data-size="540x1200"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro1-thumbnail.jpeg" alt="" width="540" height="1200"></a></figure>
+<figure class="gallery__item"><a href="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro5.jpeg" data-size="266x592"><img loading="lazy" src="https://pablorov.github.io/sitio_web/media/posts/1/gallery/ecuantro5-thumbnail.jpeg" alt="" width="266" height="592"></a></figure>
+</div></div>
+<p><br>Para estimación de estatura utiliza longitud de huesos largos y cuenta con ecuaciones de los siguientes autores:<br>Genoves, 1967<br>Trotter, 1970<br>Sciulli, 1990<br>Feldesman and Fountain, 1996<br>M.C.de Mendoca, 2000<br>Duyar, 2003<br>Angel and Cisneros, 2004<br>Ruff, 2007<br>Raxter et al, 2008<br>Didia et al, 2009<br>Auerbach and Ruff, 2010<br>Ross and Konigsberg, 2002<br>Ross and Manneschi, 2010<br>R. Hauser et al, 2005</p>
 <p>También presenta un modulo para estimar estatura con fragmentos de fémur según el método de Simmons, T. et al, 1990</p>
 <p class="has-text-align-justify">Para edad de muerte utiliza el método de Lamendin, basado en tres características dentales: transparencia radicular, periodontosis y largo total de la raíz. Cuenta también con ecuaciones de diversos autores para distintas poblaciones:<br>Lamendin et al, 1992<br>Prince y Ubelaker, 2002<br>Ubelaker y Parra, 2007<br>Gonzalez et al, 2006<br>Schmitt et al, 2010</p>
 <p class="has-text-align-justify">Para estimación de distancias biológicas utiliza la Medida Media de Divergencia (MMD) con datos de rasgos esqueletales discretos.</p>
